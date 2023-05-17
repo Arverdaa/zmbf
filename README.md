@@ -1,8 +1,6 @@
 ### Tampilan Menu
 - **Menu Utama Dan Menu Lain**
-<img src="https://github.com/Arverdaa/zmbf/blob/main/
-Screenshot_2023-05-17-22-57-54-33_84d3000e3f4017145260f7618db1d683.jpg">
-
+<img src="https://github.com/Arverdaa/zmbf/Screenshot_2023-05-17-22-57-54-33_84d3000e3f4017145260f7618db1d683.jpg">
 
 ### Cara Install
 ````
